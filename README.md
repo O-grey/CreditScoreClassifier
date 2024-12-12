@@ -1,1 +1,1 @@
-# CreditScoreClassifier
+Chup Lundke
